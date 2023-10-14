@@ -51,6 +51,7 @@ Female, as the actor ID number is even.
 переобучению под голоса конкретных актёров. В дальнейшем
 
 Результаты обучения модели:
+
               precision    recall  f1-score   support
 
            0       0.60      0.75      0.67        20
