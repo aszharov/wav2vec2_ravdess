@@ -1,7 +1,7 @@
 # Классификация эмоций в аудио
 
 [Ссылка на Яндекс Диск с весами моделей](https://disk.yandex.ru/d/CbyXVc5dTpG9DA) \
-[Ноутбук с результатами](https://github.com/aszharov/wav2vec2_ravdess/wav2vec2.0-ravdess-for-vk-lab-2023.ipynb)
+[Ноутбук с результатами](https://github.com/aszharov/wav2vec2_ravdess/blob/main/wav2vec2.0-ravdess-for-vk-lab-2023.ipynb)
 
 В данном репозитории представлены результаты применения модели wav2vec2.0 к задаче классификации эмоций.
 Модель была предложена для применения в области self-supervised learning для работы с речевыми аудиофайлами.
